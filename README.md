@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=1eanq&style=flat-square&color=blue" alt=""/>
 
 <!--
 **1eanq/1eanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
