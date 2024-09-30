@@ -1,7 +1,3 @@
-## Hi there 👋
-
-https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
-
 <div id="badges">
   <a href="https://t.me/leanq_ha">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
