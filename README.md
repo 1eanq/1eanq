@@ -8,3 +8,8 @@
 
 ## About me
 - I am a Backend Developer from St. Petersburg.
+## Stack
+<div id="stack">
+  <img src="https://img.shields.io/badge/Golang-blue?logo=go&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/c++-blue?logo=cplusplus&logoColor=white&style=for-the-badge"/>
+</div>
